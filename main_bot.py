@@ -7,6 +7,8 @@ import os
 import asyncio
 from random import choice
 
+"""Это дискорд бот"""
+
 
 def get_token():
     load_dotenv()
